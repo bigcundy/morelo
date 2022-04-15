@@ -27,13 +27,13 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 
 ## Introduction
 
-Morelo is a private, secure, untraceable, decentralised digital currency. You are your bank, you control your funds, and nobody can trace your transfers unless you allow them to do so.
+Welcome to morelo, the most important agent in creating our exiting future of private banking and monatary exchange. By combining the ring confidential transaction technology and randomX/ARQ algorythym with our bold and innovative capital menagment strategy we are stirring up the crypto world with a powerful punch. join us on the journey through the strange tides of succes.
 
-**Privacy:** Morelo uses a cryptographically sound system to allow you to send and receive funds without your transactions being easily revealed on the blockchain (the ledger of transactions that everyone has). This ensures that your purchases, receipts, and all transfers remain absolutely private by default.
-
-**Security:** Using the power of a distributed peer-to-peer consensus network, every transaction on the network is cryptographically secured. Individual wallets have a 25 word mnemonic seed that is only displayed once, and can be written down to backup the wallet. Wallet files are encrypted with a passphrase to ensure they are useless if stolen.
-
-**Untraceability:** By taking advantage of ring signatures, a special property of a certain type of cryptography, Morelo is able to ensure that transactions are not only untraceable, but have an optional measure of ambiguity that ensures that transactions cannot easily be tied back to an individual user or computer.
+        The absolutely private and discrete nature of Morelo tranmsactions 
+       insures the most smoothe expiriance of buying, selling, trading and doinganything 
+      you wish through morelo exchange. 
+    A simple 25 word mnemonic seed, decentralised p2p  network and a consice passphrase incryption ensure that you're safe with your assets.
+  Your transactions will never be traced back to you due to ring signatures, a briliant impplementation of the combined genisus of our brightest generations.
 
 ## SSL
 
